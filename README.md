@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on MERN<br>👯 I’m looking to collaborate on <br>🤝 I’m looking for help with Design portent  <br>🌱 I’m currently learning React Redux <br>💬 Ask me about JavaScript<br>
+🔭 I’m currently working on MERN<br>👯 I’m looking to collaborate on <br>🤝 I’m looking for help with Design Patern  <br>🌱 I’m currently learning React Redux <br>💬 Ask me about JavaScript<br>
 
 
 ## 🌐 Socials:
