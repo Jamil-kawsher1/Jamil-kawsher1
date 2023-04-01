@@ -8,6 +8,7 @@
           src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=1000&color=0A222C&width=435&lines=Hi+there+%F0%9F%91%8B+%2C+I'm++Jamil+Kawsher"
           alt="Typing SVG"
       /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hi+there%2CI+am+Jamil+Kawsher" alt="Typing SVG" /></a>
   <p align=""><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Test+Automation+Trainee++;SQA+Trainee;MERN+Stack+Web+Developer" alt="Typing SVG" /></a>
 </p>
     </div> -->
