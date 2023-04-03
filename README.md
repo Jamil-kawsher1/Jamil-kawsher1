@@ -1,31 +1,15 @@
 
 
 
-<!-- 
-<div  align="center">
-      <a href="https://git.io/typing-svg"
-        ><img
-          src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=1000&color=0A222C&width=435&lines=Hi+there+%F0%9F%91%8B+%2C+I'm++Jamil+Kawsher"
-          alt="Typing SVG"
-      /></a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hi+there%2C+I+am+Jamil+Kawsher)](https://git.io/typing-svg)
-  
-<p align=""><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Test+Automation+Trainee++;SQA+Trainee;MERN+Stack+Web+Developer" alt="Typing SVG" /></a>
-</p>
-    </div> -->
     
     
 
 
 <div align="center">
   
-  <div style="display:flex;flex-direction:column;justify-content:center;align-items:center;">
-  <div style="margin-bottom:20px;">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=1000&color=0A222C&width=435&lines=Hi+there+%F0%9F%91%8B+%2C+I'm++Jamil+Kawsher" alt="Typing SVG" />
-    </a>
-  </div>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF165F&width=435&lines=Hi+there+%F0%9F%91%8B+%2C+I+am+Jamil+Kawsher" alt="Typing SVG" /></a>
+ 
   <div style="margin-top:-50px;">
     <p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Test+Automation+Trainee++;SQA+Trainee;MERN+Stack+Web+Developer" alt="Typing SVG" /></a></p>
   </div>
