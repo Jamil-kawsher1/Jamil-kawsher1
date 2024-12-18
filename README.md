@@ -11,7 +11,7 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF165F&width=435&lines=Hi+there+%F0%9F%91%8B+%2C+I+am+Jamil+Kawsher" alt="Typing SVG" /></a>
  
   <div style="margin-top:-50px;">
-    <p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Test+Automation+Trainee++;SQA+Trainee;MERN+Stack+Web+Developer" alt="Typing SVG" /></a></p>
+    <p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Test+Automation+Engineer++;SQA+Engineer;MERN+Stack+Web+Developer" alt="Typing SVG" /></a></p>
   </div>
 </div>   
   
