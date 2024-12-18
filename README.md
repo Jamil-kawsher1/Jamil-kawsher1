@@ -41,7 +41,7 @@
   # 💫 About Me:
 
   <div style="text-align: left">
-    🔭 I’m currently working on Test Automation<br>👯 I’m looking to collaborate on Open Source <br>🤝 I’m looking for help with Design Pattern  <br>🌱 I’m currently learning Cypress <br>💬 Ask me about JavaScript<br>
+    🔭 I’m currently working on Test Automation<br>👯 I’m looking to collaborate on Open Source <br>🤝 I’m looking for help with Design Pattern  <br>🌱 I’m currently learning Playwright <br>💬 Ask me about JavaScript<br>
   </div>
   
 <br><br>
